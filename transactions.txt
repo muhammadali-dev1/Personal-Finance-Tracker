@@ -1,0 +1,7 @@
+1500
+Income,Part-Time Job,450.00,2026-04-01,Weekly paycheck
+Income,Refund,75.50,2026-04-03,Returned item refund
+Expense,Food,18.75,2026-04-04,Lunch
+Expense,Gas,42.00,2026-04-05,Filled gas tank
+Expense,Shopping,89.99,2026-04-07,Clothes
+Expense,Subscriptions,12.99,2026-04-10,Streaming service
