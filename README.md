@@ -62,7 +62,7 @@ On Windows, use:
 finance_tracker.exe
 ```
 
-## Example Menu
+## Menu
 
 ```text
 ========== PERSONAL FINANCE TRACKER ==========
