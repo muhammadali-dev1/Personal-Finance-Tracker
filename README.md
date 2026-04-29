@@ -79,16 +79,6 @@ finance_tracker.exe
 11. Load Data
 0. Exit
 ```
-
-## Sample Resume Bullets
-
-**Personal Finance Tracker | C++**
-
-- Developed a command-line personal finance application in C++ using object-oriented programming and modular file organization.
-- Implemented transaction tracking for income, expenses, budgets, savings summaries, category reports, searching, and sorting.
-- Used file input/output to save and load user financial data across program sessions.
-- Applied vectors, maps, input validation, and custom classes to create a structured real-world application.
-
 ## Future Improvements
 
 - Add login support for multiple users
